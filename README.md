@@ -10,4 +10,4 @@ PIAT minimizes an adversarial loss for training physics informed neural networks
 # Experimental codes
 We have applied PIAT for solving Kuramoto-Sivashinsky equation, Sawada–Kotara equation, and a high dimensional heat equation. The codes are available in this repository.
 
-These codes can be easily run in [Colab](colab.research.google.com).
+These codes can be easily run in [Colab](https://colab.research.google.com).
